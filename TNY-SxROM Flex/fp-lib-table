@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TNY-SxROM Flex")(type "KiCad")(uri "${KIPRJMOD}/TNY-SxROM Flex.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TNY-SKROM")(type "KiCad")(uri "${KIPRJMOD}/TNY-SKROM.kicad_sym")(options "")(descr ""))
+)
