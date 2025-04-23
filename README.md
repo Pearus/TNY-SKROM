@@ -55,7 +55,7 @@ Capacitors should be at least 16V rated. Resistor wattage is negligible.
 | U1  | MMC1  | SHRINKDIP24  |
 | U2  | <a href="https://www.mouser.com/ProductDetail/Microchip-Technology/SST39SF040-70-4C-WHE?qs=Oo69DRhzroe%2FJKrgAmUE5Q%3D%3D">39SF040</a>  | TSOP32 (14mm) |
 | U3 (ROM)  | <a href="https://www.mouser.com/ProductDetail/Microchip-Technology/SST39SF040-70-4C-WHE?qs=Oo69DRhzroe%2FJKrgAmUE5Q%3D%3D">39SF040</a>  | TSOP32 (14mm) |
-| U3 (RAM)  | <a href="https://www.mouser.com/ProductDetail/Microchip-Technology/SST39SF040-70-4C-WHE?qs=Oo69DRhzroe%2FJKrgAmUE5Q%3D%3D">39SF040</a> or <a href="https://www.mouser.com/ProductDetail/870-IS61C64AL-10TLI">IS61C64AL-10TLI</a>  | TSOP28 |
+| U3 (RAM)  | <a href="https://www.mouser.com/ProductDetail/Alliance-Memory/AS6C6264-55STCN?qs=LD2UibpCYJonFY2RVods7g%3D%3D">AS6C6264</a> or <a href="https://www.mouser.com/ProductDetail/870-IS61C64AL-10TLI">IS61C64AL-10TLI</a>  | TSOP28 |
 | U4  | <a href="https://www.mouser.com/ProductDetail/Alliance-Memory/AS6C6264-55SCN?qs=LD2UibpCYJq5mmbqgDVBYw%3D%3D">AS6C6264</a>              | SOP28  / SOIC28 |
 
 # Revision History
